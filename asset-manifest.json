@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://deeksha16222.github.io/csb-wkweoo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://deeksha16222.github.io/csb-wkweoo/static/js/main.abd553ed.chunk.js",
+    "main.js.map": "https://deeksha16222.github.io/csb-wkweoo/static/js/main.abd553ed.chunk.js.map",
+    "runtime-main.js": "https://deeksha16222.github.io/csb-wkweoo/static/js/runtime-main.4c777abe.js",
+    "runtime-main.js.map": "https://deeksha16222.github.io/csb-wkweoo/static/js/runtime-main.4c777abe.js.map",
+    "static/js/2.ee1f2e4d.chunk.js": "https://deeksha16222.github.io/csb-wkweoo/static/js/2.ee1f2e4d.chunk.js",
+    "static/js/2.ee1f2e4d.chunk.js.map": "https://deeksha16222.github.io/csb-wkweoo/static/js/2.ee1f2e4d.chunk.js.map",
+    "index.html": "https://deeksha16222.github.io/csb-wkweoo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://deeksha16222.github.io/csb-wkweoo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ee1f2e4d.chunk.js.LICENSE.txt": "https://deeksha16222.github.io/csb-wkweoo/static/js/2.ee1f2e4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c777abe.js",
+    "static/js/2.ee1f2e4d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.abd553ed.chunk.js"
+  ]
+}
